@@ -19,7 +19,7 @@ By including these traits in your PHPUnit test classes you can:
 
 ## Installation
 
-`composer require jonathanjfshaw/phpunitbehat`
+`composer require pedrolifull/phpunitbehat`
 
 ## Usage
 
