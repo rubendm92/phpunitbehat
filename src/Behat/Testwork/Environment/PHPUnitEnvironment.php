@@ -33,6 +33,8 @@ class PHPUnitEnvironment implements ContextEnvironment
      * @var array[]
      */
     protected $contextClasses = array();
+    private TestCase $testCase;
+    private Suite $suite;
 
     /**
      * Specifies the current PhpUnit test case.
